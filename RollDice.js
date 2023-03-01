@@ -1,2 +1,1 @@
-if (!$this.scene.dieClick) {
-}
+if (!$this.scene.dieClick) {}
